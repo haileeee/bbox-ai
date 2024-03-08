@@ -1,13 +1,13 @@
 {
   "name": "bbox-ai",
-  "version": "0.0.3",
-  "description": "cale ai holitic interface",
+  "version": "1.0.1",
+  "description": "ai holitic interface",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "https://github.com/haileeee/bbox-ai.git",
-  "author": "haileee@gmail.com",
+   "author": "zicusa3@gmail.com",
   "license": "GPL-3.0-or-later"
 }
